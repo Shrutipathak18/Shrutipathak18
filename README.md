@@ -1,6 +1,6 @@
 # Hi there, I'm Shruti Pathak! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+
 
 ## 🚀 About Me
 
