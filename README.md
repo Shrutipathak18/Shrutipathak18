@@ -225,6 +225,6 @@ A passionate **Electronics & Computer Science Engineering** student at KIIT Univ
   
   **Thanks for visiting! 😊**
   
-  ![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+ 
   
 </div>
